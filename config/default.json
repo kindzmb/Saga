@@ -1,4 +1,0 @@
-{
-  "mongoURI": "mongodb+srv://vincent:ontzettendruig@cluster0.crfmx.azure.mongodb.net/<dbname>?retryWrites=true&w=majority",
-  "jwtSecret": "mysecrettoken12345"
-}
